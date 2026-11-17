@@ -1,0 +1,1 @@
+"""LAN Fighter package."""

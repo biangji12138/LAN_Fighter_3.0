@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+installer/
+redist/
+settings.json
+.trae/
+2023542340136-熊璧合.docx
